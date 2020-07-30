@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Leia esta página em português] (https://github.com/leandromarten1/leandromarten1/blob/master/README-PT.md)
 <!--
 **leandromarten1/leandromarten1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

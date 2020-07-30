@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm **Leandro Marten**,.
+
+## Technologies:
+
+:pushpin: HTML
+
+:pushpin: CSS
+
+:pushpin: Javascript
+
+:pushpin: React JS
+
 
 <!--
 **leandromarten1/leandromarten1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

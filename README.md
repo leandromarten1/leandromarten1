@@ -1,29 +1,21 @@
 # Hi there 👋
 
-I'm **Leandro Marten**,.
+### Sobre
+- :man: Me chamo Leandro, tenho 29 anos e moro em Florianópolis, SC, Brasil
+- :green_book: Atualmente estudo desenvolvimento web full stack na [Trybe](https://www.betrybe.com/)
+- :eyes: Estou procurando oportunidades de emprego como desenvolvedor de software
+- 🥅 Objetivos em 2021: Formar na [Trybe](https://www.betrybe.com/), entrar no mercado de trabalho
+- :star: Fã de tecnologia, games, futebol e churrasco
 
-## Technologies:
+### Contato
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olucasrangel/)
+[](mailto:leandromarten1@gmail.com)
 
-:pushpin: HTML
+### Tecnologias
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />     <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 
-:pushpin: CSS
-
-:pushpin: Javascript
-
-:pushpin: React JS
-
-
-<!--
-**leandromarten1/leandromarten1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Status
+<img
+align="center"
+alt="GIF"
+src="https://github-readme-stats.vercel.app/api?username=leandromarten1&theme=dracula" />

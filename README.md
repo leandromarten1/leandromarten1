@@ -3,8 +3,7 @@
 ### Sobre
 - :man: Me chamo Leandro, tenho 29 anos e moro em Florianópolis, SC, Brasil
 - :green_book: Atualmente estudo desenvolvimento web full stack na [Trybe](https://www.betrybe.com/)
-- :eyes: Estou procurando oportunidades de emprego como desenvolvedor de software
-- 🥅 Objetivos em 2021: Formar na [Trybe](https://www.betrybe.com/), entrar no mercado de trabalho
+- :eyes: Quero atuar no mercado como desenvolvedor de software
 - :star: Fã de tecnologia, games, futebol e churrasco
 
 ### Contato

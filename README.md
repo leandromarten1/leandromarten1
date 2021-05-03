@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ### Sobre
-- :man: Me chamo Leandro, tenho 29 anos e moro em Florianópolis, SC, Brasil
-- :green_book: Formado em desenvolvimento web full stack na [Trybe](https://www.betrybe.com/)
-- :eyes: Quero atuar no mercado como desenvolvedor de software
-- :star: Fã de tecnologia, games, futebol e churrasco
+- 🧔 Me chamo Leandro, tenho 29 anos e moro em Florianópolis, SC, Brasil
+- 📗 Formado em desenvolvimento web full stack na [Trybe](https://www.betrybe.com/)
+- 💚 Desenvolvedor de software Jr. na [Meetime](https://www.meetime.com.br/)
+- ⭐ Fã de tecnologia, games, futebol e churrasco
 
 ### Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leandromarten/)

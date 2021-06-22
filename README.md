@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Sobre
-- 🧔 Me chamo Leandro, estou na versão 2.9 e moro em Florianópolis, SC, Brasil
+- 🧔 Me chamo Leandro, estou na versão 3.0 e moro em Florianópolis, SC, Brasil
 - 📗 Formado em desenvolvimento web full stack na [Trybe](https://www.betrybe.com/)
 - 💚 Desenvolvedor de software Jr. na [Meetime](https://www.meetime.com.br/)
 - ⭐ Fã de tecnologia, games, futebol e churrasco
